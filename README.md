@@ -1,4 +1,5 @@
-## Hi there! 👋 I'm Francisco Pinto, and I have a passion for programming. I enjoy building projects and exploring new technologies. I hope you find my work interesting and useful. Feel free to check out my repositories and connect with me!
+## Hi there! 👋 
+I'm Francisco Pinto, and I have a passion for programming. I enjoy building projects and exploring new technologies. I hope you find my work interesting and useful. Feel free to check out my repositories and connect with me!
 <div align="center">
   <a href="https://github.com/franww">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franww&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
