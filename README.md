@@ -1,10 +1,9 @@
-## Hi there! 👋 
-<div align="center">I'm a <strong>Developer</strong>, <strong>Code Editor</strong> and <strong>Debugger</strong> from <strong>Portugal</strong></div>
-<a href="https://github.com/r3mz0/" target="_blank">
-    <img src="https://github.com/franww/banner/blob/main/professional_github_banner.jpg?raw=true" width="300" height="auto" style="display: block; margin: 0 auto;" />
-</a>
-<div align="center">🎉 About Me:</div>
-<strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_</strong>
+# <div align="center">Hello stranger 🖐, I'm ЯΣMZO</div>
+<div align="center">I'm a <strong>Developer</strong>, <strong>Code Editor</strong> and <strong>Debugger</strong> from <strong>Slovakia.</strong></div>
+<a href="https://github.com/r3mz0/" target="_blank"><img src="https://raw.githubusercontent.com/r3mz0/banner/main/Banner.png" /></a>
+
+# <div align="center">🎉 About Me:</div>
+<strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_
 
 
 ⟨ / ⟩ 🤝 I like to collaborate with someone on something new_
