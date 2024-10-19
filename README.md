@@ -18,7 +18,7 @@
 I'm Francisco Pinto, and I have a passion for programming. I enjoy building projects and exploring new technologies. I hope you find my work interesting and useful. Feel free to check out my repositories and connect with me!
 <div align="center">
   <a href="https://github.com/franww">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=franww&theme=midnight-purple&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franww&theme=ambient_gradient&show_icons=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franww&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
