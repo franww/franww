@@ -1,6 +1,6 @@
 ## Hi there! 👋 
 <div align="center">I'm a <strong>Developer</strong>, <strong>Code Editor</strong> and <strong>Debugger</strong> from <strong>Portugal</strong></div>
-<a href="https://github.com/r3mz0/" target="_blank"><img src="https://github.com/franww/banner/blob/main/professional_github_banner.jpg?raw=true" /></a>
+<a href="https://github.com/r3mz0/" target="_blank"><img src="https://github.com/franww/banner/blob/main/professional_github_banner.jpg?raw=true" width="400"/></a>
 # <div align="center">🎉 About Me:</div>
 <strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_
 
