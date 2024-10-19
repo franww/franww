@@ -1,4 +1,16 @@
 ## Hi there! 👋 
+# <div align="center">🎉 About Me:</div>
+<strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_
+
+⟨ / ⟩ 🤝 I like to collaborate with someone on something new_
+
+⟨ / ⟩ 🍀 I'm always open to new things_
+
+⟨ / ⟩ 🌱 I'm currently learning new programming languages and doing what I enjoy the most_
+
+⟨ / ⟩ 💬 Ask me anything. I'm happy for every comment, it doesn't matter if it's positive or negative_
+
+⟨ / ⟩ &nbsp;❓ Fun fact, I still try to be as positive as possible. I do not lose hope in difficult situations and I am very patient_
 I'm Francisco Pinto, and I have a passion for programming. I enjoy building projects and exploring new technologies. I hope you find my work interesting and useful. Feel free to check out my repositories and connect with me!
 <div align="center">
   <a href="https://github.com/franww">
