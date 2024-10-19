@@ -19,7 +19,7 @@ I'm Francisco Pinto, and I have a passion for programming. I enjoy building proj
 <div align="center">
   <a href="https://github.com/franww">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franww&theme=dracula&show_icons=true"/>
-  <img height="130em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="franww-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
