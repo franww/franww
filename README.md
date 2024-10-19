@@ -15,11 +15,12 @@
 ⟨ / ⟩ 💬 Ask me anything. I'm happy for every comment, it doesn't matter if it's positive or negative_
 
 ⟨ / ⟩ &nbsp;❓ Fun fact, I still try to be as positive as possible. I do not lose hope in difficult situations and I am very patient_
+
 I'm Francisco Pinto, and I have a passion for programming. I enjoy building projects and exploring new technologies. I hope you find my work interesting and useful. Feel free to check out my repositories and connect with me!
-<div align="center">
+<div align="left">
   <a href="https://github.com/franww">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franww&theme=dracula&show_icons=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franww&theme=ambient_gradient&show_icons=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franww&layout=donut&theme=ambient_gradient"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="franww-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
