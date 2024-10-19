@@ -1,6 +1,6 @@
 # <div align="center">Hello stranger 🖐, I'm ЯΣMZO</div>
 <div align="center">I'm a <strong>Developer</strong>, <strong>Code Editor</strong> and <strong>Debugger</strong> from <strong>Slovakia.</strong></div>
-<a href="https://github.com/r3mz0/" target="_blank"><img src="https://github.com/franww/banner/blob/main/professional_github_banner.jpg?raw=true" /></a>
+<a href="https://github.com/r3mz0/" target="_blank"><img src="https://github.com/franww/banner/blob/main/DALL%C2%B7E%202024-10-19%2011.46.08%20-%20A%20GitHub%20banner-style%20image%20featuring%20the%20words%20DEV,%20HACKER,%20and%20STUDENT%20in%20a%20sleek,%20modern%20aesthetic.%20The%20design%20should%20have%20a%20similar%20style%20to%20a%20dar.png?raw=true" /></a>
 
 # <div align="center">🎉 About Me:</div>
 <strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_
