@@ -1,8 +1,11 @@
 ## Hi there! 👋 
 <div align="center">I'm a <strong>Developer</strong>, <strong>Code Editor</strong> and <strong>Debugger</strong> from <strong>Portugal</strong></div>
-<a href="https://github.com/r3mz0/" target="_blank"><img src="https://github.com/franww/banner/blob/main/professional_github_banner.jpg?raw=true" width="400" align="center"/></a>
-# <div align="center">🎉 About Me:</div>
-<strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_
+<a href="https://github.com/r3mz0/" target="_blank">
+    <img src="https://github.com/franww/banner/blob/main/professional_github_banner.jpg?raw=true" width="300" height="auto" style="display: block; margin: 0 auto;" />
+</a>
+<div align="center">🎉 About Me:</div>
+<strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_</strong>
+
 
 ⟨ / ⟩ 🤝 I like to collaborate with someone on something new_
 
