@@ -48,3 +48,5 @@ I'm Francisco Pinto, and I have a passion for programming. I enjoy building proj
   
 
 </div>
+
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
