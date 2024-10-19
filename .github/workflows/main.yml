@@ -9,7 +9,7 @@ on:
 
   schedule:
 
-      # every 6 hours
+      # every 6 hoursd
 
     - cron: "0 */6 * * *"
 
