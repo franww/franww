@@ -1,5 +1,6 @@
 ## Hi there! 👋 
 <div align="center">I'm a <strong>Developer</strong>, <strong>Code Editor</strong> and <strong>Debugger</strong> from <strong>Portugal</strong></div>
+<a href="https://github.com/r3mz0/" target="_blank"><img src="https://raw.githubusercontent.com/r3mz0/banner/main/Banner.png" /></a>
 # <div align="center">🎉 About Me:</div>
 <strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_
 
