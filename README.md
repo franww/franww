@@ -49,4 +49,3 @@ I'm Francisco Pinto, and I have a passion for programming. I enjoy building proj
 
 </div>
 
-![snake gif](https://github.com/franww/franww/blob/output/github-contribution-grid-snake.gif)
