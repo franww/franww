@@ -1,7 +1,6 @@
 
 # <div align="center">Hello stranger 🖐, I'm Francisco Pinto</div>
 <div align="center">I'm a <strong>Developer</strong>, <strong>Code Editor</strong> and <strong>Student</strong> from <strong>Portugal.</strong></div>
-<a href="https://github.com/franww/" target="_blank"><img src="https://github.com/franww/banner/blob/main/bannerbest.png?raw=true"/></a>
 
 # <div align="center">🎉 About Me:</div>
 <strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_
