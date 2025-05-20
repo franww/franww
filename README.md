@@ -7,7 +7,7 @@
 
 
 ⟨ / ⟩ 🤝 I like to collaborate with someone on something new_
-
+<br>
 ⟨ / ⟩ 🍀 I'm always open to new things_
 
 ⟨ / ⟩ 🌱 I'm currently learning new programming languages and doing what I enjoy the most_
