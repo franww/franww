@@ -2,6 +2,7 @@
 # <div align="center">Hello stranger 🖐, I'm Francisco Pinto</div>
 # <div align="center">🎉 About Me:</div>
 <strong>
+
 ⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_
 
 ⟨ / ⟩ 🤝 I like to collaborate with someone on something new_
